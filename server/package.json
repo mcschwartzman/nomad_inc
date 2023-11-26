@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "console.log(\"ERROR: no tests defined\");"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcschwartzman/nomad_inc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcschwartzman/nomad_inc/issues"
+  },
+  "homepage": "https://github.com/mcschwartzman/nomad_inc#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
