@@ -15,3 +15,8 @@ node_modules/
 
 # mac stuff
 **/.DS_Store
+
+# python cache stuff
+
+__pycache__/
+**/*.pyc
